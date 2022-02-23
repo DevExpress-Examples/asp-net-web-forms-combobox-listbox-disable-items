@@ -1,25 +1,9 @@
-# Product/Platform - Task
+# ASPxListBox/ASPxComboBox - How to disable items
 
-This is the repository template for creating new examples. Describe the solved task here.
-
-Put a screenshot that illustrates the result here.
-
-Then, add implementation details (steps, code snippets, and other technical information in a free form), or add a link to an existing document with implementation details. 
+Some Description here...
 
 ## Files to Look At
 
-- link.cs (VB: link.vb)
-- link.js
-- ...
+* [Default.aspx](./CS/Solution/Default.aspx) (VB: [Default.aspx](./VB/Solution/Default.aspx))
+* [Default.aspx.cs](./CS/Solution/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Solution/Default.aspx.vb))
 
-## Documentation
-
-- link
-- link
-- ...
-
-## More Examples
-
-- link
-- link
-- ...
