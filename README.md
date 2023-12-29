@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # List Box and Combo Box for ASP.NET Web Forms - How to enable or disable items
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/463091094/)**
-<!-- run online end -->
 
 This example demonstrates how to use CSS classes to enable or disable items in editors.
 
