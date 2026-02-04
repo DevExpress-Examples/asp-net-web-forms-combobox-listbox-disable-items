@@ -6,44 +6,47 @@
 '     the code is regenerated. 
 ' </auto-generated>
 '------------------------------------------------------------------------------
+
 Namespace Solution
 
-    Public Partial Class [Default]
 
-        ''' <summary>
-        ''' form1 control.
-        ''' </summary>
-        ''' <remarks>
-        ''' Auto-generated field.
-        ''' To modify move field declaration from designer file to code-behind file.
-        ''' </remarks>
-        Protected form1 As Global.System.Web.UI.HtmlControls.HtmlForm
+	Partial Public Class [Default]
+		Inherits System.Web.UI.Page
 
-        ''' <summary>
-        ''' ASPxListBox1 control.
-        ''' </summary>
-        ''' <remarks>
-        ''' Auto-generated field.
-        ''' To modify move field declaration from designer file to code-behind file.
-        ''' </remarks>
-        Protected ASPxListBox1 As Global.DevExpress.Web.ASPxListBox
+		''' <summary>
+		''' form1 control.
+		''' </summary>
+		''' <remarks>
+		''' Auto-generated field.
+		''' To modify move field declaration from designer file to code-behind file.
+		''' </remarks>
+		Protected form1 As System.Web.UI.HtmlControls.HtmlForm
 
-        ''' <summary>
-        ''' ASPxComboBox1 control.
-        ''' </summary>
-        ''' <remarks>
-        ''' Auto-generated field.
-        ''' To modify move field declaration from designer file to code-behind file.
-        ''' </remarks>
-        Protected ASPxComboBox1 As Global.DevExpress.Web.ASPxComboBox
+		''' <summary>
+		''' ASPxListBox1 control.
+		''' </summary>
+		''' <remarks>
+		''' Auto-generated field.
+		''' To modify move field declaration from designer file to code-behind file.
+		''' </remarks>
+		Protected ASPxListBox1 As Global.DevExpress.Web.ASPxListBox
 
-        ''' <summary>
-        ''' enableBtn control.
-        ''' </summary>
-        ''' <remarks>
-        ''' Auto-generated field.
-        ''' To modify move field declaration from designer file to code-behind file.
-        ''' </remarks>
-        Protected enableBtn As Global.DevExpress.Web.ASPxButton
-    End Class
+		''' <summary>
+		''' ASPxComboBox1 control.
+		''' </summary>
+		''' <remarks>
+		''' Auto-generated field.
+		''' To modify move field declaration from designer file to code-behind file.
+		''' </remarks>
+		Protected ASPxComboBox1 As Global.DevExpress.Web.ASPxComboBox
+
+		''' <summary>
+		''' enableBtn control.
+		''' </summary>
+		''' <remarks>
+		''' Auto-generated field.
+		''' To modify move field declaration from designer file to code-behind file.
+		''' </remarks>
+		Protected enableBtn As Global.DevExpress.Web.ASPxButton
+	End Class
 End Namespace
