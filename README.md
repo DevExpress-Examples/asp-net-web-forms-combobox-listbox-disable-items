@@ -49,7 +49,7 @@ function enableItems(editor, enable) {
 
 * [Combo Box for ASP.NET Web Forms - How to customize an item's appearance](https://github.com/DevExpress-Examples/asp-net-web-forms-combo-box-customize-item-appearance)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-combobox-listbox-disable-items&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-combobox-listbox-disable-items&~~~was_helpful=no)
 
